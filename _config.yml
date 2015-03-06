@@ -3,7 +3,7 @@ title: Freelancer
 detail: รับทำโปรเจคจบ php jsp vb c sharp อื่นๆ ราคาตามตกลง
 email: projectdeks@gmail.com
 url: http://projectdeks.com/
-description: "รับทำโปรเจคจบ php jsp vb c sharp อื่นๆ ราคาตามตกลง"
+description: รับทำโปรเจคจบ php jsp vb c sharp อื่นๆ ราคาตามตกลง
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -23,16 +23,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: twitter
-  #   url: http://twitter.com/jekyllrb
+  - title: twitter
+    url: http://twitter.com/jekyllrb
    - title: facebook
      url: https://www.facebook.com/pjdek
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket
-  #   url: http://bitbucket.org/jekyll
-  # - title: github
-  #   url: http://github.com/jekyll
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
