@@ -1,9 +1,8 @@
 # Site settings
 title: Freelancer
-detail: รับทำโปรเจคจบ php jsp vb c sharp อื่นๆ ราคาตามตกลง
-email: projectdeks@gmail.com
-url: http://projectdeks.com/
-description: รับทำโปรเจคจบ php jsp vb c sharp อื่นๆ ราคาตามตกลง
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -16,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Projectdek
+  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
@@ -25,8 +24,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-   - title: facebook
-     url: https://www.facebook.com/pjdek
+  - title: facebook
+    url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -36,11 +35,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: -
-  - line: -
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: '...'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
