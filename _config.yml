@@ -45,3 +45,13 @@ credits: 'projectdeks'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+exclude:
+  - package.json
+  - bower.json
+  - bower_components
+  - README.md
+  - CNAME
+  - bower.json
+  - Gemfile
