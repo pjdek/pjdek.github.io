@@ -27,7 +27,9 @@
                     </div>
                     <div class="footer-col col-md-3">
                         <h3>{{ site.footer.textlink }}</h3>
-                        <p>{{ site.textlink }}</p>
+                 		{% for textlink in site.textlink %}
+                        		<p>{{ textlink.line }}</p>
+                    		{% endfor %}
                     </div>
                 </div>
             </div>
