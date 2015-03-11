@@ -20,6 +20,7 @@ footer:
   location: Location
   social: Around the Web
   credits: Credits
+  textlink :  Text Link
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -42,6 +43,8 @@ address:
 # Credits content
 credits: 'projectdeks'
 
+#textlink content
+textlink: " <a href='http://www.xn--72c3bkj6aus7clc0b3jpc.com' rel='dofollow' target='_blank' title='แฟรนไชส์'><strong>แฟรนไชส์</strong></a>"
 # Build settings
 markdown: kramdown
 permalink: pretty
