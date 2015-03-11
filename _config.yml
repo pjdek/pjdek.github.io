@@ -46,6 +46,7 @@ credits: 'Projectdeks'
 #textlink content
 textlink: 
   - line : " <a href='http://www.xn--72c3bkj6aus7clc0b3jpc.com' rel='dofollow' target='_blank' title='แฟรนไชส์'><strong>แฟรนไชส์</strong></a>"
+  - line : "<a href='http://www.baanwebsite.com' target='_blank'><img src='http://www.baanwebsite.com/images/bwbanner88x31.gif' alt='บ้านเว็บไซต์ รับออกแบบเว็บไซต์ ครบวงจร' title='บ้านเว็บไซต์ รับออกแบบเว็บไซต์ ครบวงจร' width='88' height='31' /></a>"
   
 # Build settings
 markdown: kramdown
